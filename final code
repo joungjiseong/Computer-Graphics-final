@@ -165,11 +165,11 @@ void init() {
     glLightfv(GL_LIGHT1, GL_DIFFUSE, lightDiffuse);     // 확산광 설정
     glLightfv(GL_LIGHT1, GL_SPECULAR, lightSpecular);   // 반사광 설정
 
-    textureID[0] = loadTexture("C:/Users/jjs10/Downloads/texture1.jpg"); // 밝은 나무 재질의 이미지
-    textureID[1] = loadTexture("C:/Users/jjs10/Downloads/texture2.jpg"); // 어두운 나무 재질의 이미지
-    textureID[2] = loadTexture("C:/Users/jjs10/Downloads/texture3.jpg"); // 스테인레스 재질의 이미지
-    textureID[3] = loadTexture("C:/Users/jjs10/Downloads/texture4.jpg"); // 화면 이미지
-    textureID[4] = loadTexture("C:/Users/jjs10/Downloads/texture5.jpg"); // 키보드 이미지
+    textureID[0] = loadTexture("image/texture1.jpg"); // 밝은 나무 재질의 이미지
+    textureID[1] = loadTexture("image/texture2.jpg"); // 어두운 나무 재질의 이미지
+    textureID[2] = loadTexture("image/texture3.jpg"); // 스테인레스 재질의 이미지
+    textureID[3] = loadTexture("image/texture4.jpg"); // 화면 이미지
+    textureID[4] = loadTexture("image/texture5.jpg"); // 키보드 이미지
 
     glClearColor(0.8f, 0.9f, 1.0f, 1.0f); // 배경색 (밝은 하늘색)
 }
@@ -333,18 +333,20 @@ void drawMousepad() {
 
 // 마우스 그리기 함수 (이전과 동일 사용 명령어는 주석 생략)
 void drawMouse() {
-    glPushMatrix();                     // 마우스 본체
-    glColor3f(0.8f, 0.8f, 0.8f);        // 밝은 회색
+    glPushMatrix();                     // 마우스
     glTranslatef(0.5f, 0.08f, -0.2f);   // 위치 조정
-    glScalef(0.05f, 0.06f, 0.1f);       // 본체 크기 조정
-    glutSolidSphere(1.0, 30, 30);       // 마우스 본체 : 구체
-    glPopMatrix();
+        glPushMatrix();                     // 마우스 본체
+        glColor3f(0.8f, 0.8f, 0.8f);        // 밝은 회색
+        glScalef(0.05f, 0.06f, 0.1f);       // 본체 크기 조정
+        glutSolidSphere(1.0, 30, 30);       // 마우스 본체 : 구체
+        glPopMatrix();
 
-    glPushMatrix();                     // 마우스 휠
-    glColor3f(0.3f, 0.3f, 0.3f);        // 어두운 회색
-    glTranslatef(0.495f, 0.13f, -0.25f);// 위치 조정
-    glRotatef(90.0f, 0.0f, 1.0f, 0.0f); // 휠 세우기
-    glutSolidCylinder(0.01f, 0.01f, 20, 20);  // 원기둥으로 휠 구현
+        glPushMatrix();                     // 마우스 휠
+        glColor3f(0.3f, 0.3f, 0.3f);        // 어두운 회색
+        glTranslatef(-0.005f, 0.05f, -0.05f);// 위치 조정
+        glRotatef(90.0f, 0.0f, 1.0f, 0.0f); // 휠 세우기
+        glutSolidCylinder(0.01f, 0.01f, 20, 20);  // 원기둥으로 휠 구현
+        glPopMatrix();
     glPopMatrix();
 }
 
