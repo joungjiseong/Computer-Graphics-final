@@ -1,0 +1,7 @@
+C:\Users\jjs10\source\repos\Csharp01a\Csharp01a\bin\Debug\Csharp01a.exe.config
+C:\Users\jjs10\source\repos\Csharp01a\Csharp01a\bin\Debug\Csharp01a.exe
+C:\Users\jjs10\source\repos\Csharp01a\Csharp01a\bin\Debug\Csharp01a.pdb
+C:\Users\jjs10\source\repos\Csharp01a\Csharp01a\obj\Debug\Csharp01a.csprojAssemblyReference.cache
+C:\Users\jjs10\source\repos\Csharp01a\Csharp01a\obj\Debug\Csharp01a.csproj.CoreCompileInputs.cache
+C:\Users\jjs10\source\repos\Csharp01a\Csharp01a\obj\Debug\Csharp01a.exe
+C:\Users\jjs10\source\repos\Csharp01a\Csharp01a\obj\Debug\Csharp01a.pdb

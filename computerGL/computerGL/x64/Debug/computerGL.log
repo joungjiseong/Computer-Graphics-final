@@ -1,0 +1,17 @@
+﻿  6-8.cpp
+C:\Users\jjs10\source\repos\computerGL\computerGL\6-8.cpp(5,33): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\computerGL\computerGL\6-8.cpp(5,38): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\computerGL\computerGL\6-8.cpp(7,33): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\computerGL\computerGL\6-8.cpp(7,38): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\computerGL\computerGL\6-8.cpp(10,30): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\computerGL\computerGL\6-8.cpp(10,35): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\computerGL\computerGL\6-8.cpp(10,40): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\computerGL\computerGL\6-8.cpp(11,30): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\computerGL\computerGL\6-8.cpp(11,35): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\computerGL\computerGL\6-8.cpp(11,40): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\computerGL\computerGL\6-8.cpp(51,25): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\computerGL\computerGL\6-8.cpp(51,20): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\computerGL\computerGL\6-8.cpp(51,15): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  computerGL.vcxproj -> C:\Users\jjs10\source\repos\computerGL\x64\Debug\computerGL.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jjs10\\source\\repos\\computerGL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5DB19B-4DCF-4F10-BB03-7B0EFC6F4330}|computerGL\\computerGL.vcxproj|C:\\Users\\jjs10\\source\\repos\\computerGL\\computerGL\\6-8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E5DB19B-4DCF-4F10-BB03-7B0EFC6F4330}|computerGL\\computerGL.vcxproj|solutionrelative:computerGL\\6-8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6-8.cpp",
+              "DocumentMoniker": "C:\\Users\\jjs10\\source\\repos\\computerGL\\computerGL\\6-8.cpp",
+              "RelativeDocumentMoniker": "computerGL\\6-8.cpp",
+              "ToolTip": "C:\\Users\\jjs10\\source\\repos\\computerGL\\computerGL\\6-8.cpp*",
+              "RelativeToolTip": "computerGL\\6-8.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T06:41:31.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

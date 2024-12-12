@@ -1,0 +1,4 @@
+﻿  1주차 테스트 2.cpp
+C:\Users\jjs10\source\repos\자료구조\week 1\1주차 테스트 2.cpp(6,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+1주차 테스트 2.obj : error LNK2005: _main이(가) 1주차 테스트 1.obj에 이미 정의되어 있습니다.
+C:\Users\jjs10\source\repos\자료구조\Debug\week 1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

@@ -1,0 +1,8 @@
+﻿  num3.cpp
+C:\Users\jjs10\source\repos\HW3Project2\HW3Project2\num3.cpp(17,20): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW3Project2\HW3Project2\num3.cpp(107,25): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW3Project2\HW3Project2\num3.cpp(107,20): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW3Project2\HW3Project2\num3.cpp(107,15): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  HW3Project2.vcxproj -> C:\Users\jjs10\source\repos\HW3Project2\x64\Debug\HW3Project2.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.

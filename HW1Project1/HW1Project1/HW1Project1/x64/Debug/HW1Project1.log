@@ -1,0 +1,44 @@
+﻿  HW1.cpp
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(9,37): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(9,43): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(9,50): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(9,55): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(9,61): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(9,69): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(9,75): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(9,81): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(9,94): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(10,37): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(10,44): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(10,53): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(10,59): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(10,66): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(10,74): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(10,79): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(10,86): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(10,99): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(10,106): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(14,33): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(14,38): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(16,33): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(16,38): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(19,30): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(19,35): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(19,40): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(20,30): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(20,35): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(20,40): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(83,20): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(84,16): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(90,34): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(90,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(90,19): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(91,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(91,19): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(91,13): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(140,25): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(140,20): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\HW1.cpp(140,15): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  HW1Project1.vcxproj -> C:\Users\jjs10\source\repos\HW1Project1\HW1Project1\x64\Debug\HW1Project1.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.

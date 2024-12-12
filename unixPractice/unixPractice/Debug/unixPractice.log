@@ -1,0 +1,2 @@
+﻿  myshell.c
+C:\Users\jjs10\source\repos\unixPractice\unixPractice\myshell.c(4,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'unistd.h': No such file or directory
